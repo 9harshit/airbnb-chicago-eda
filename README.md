@@ -20,3 +20,7 @@ Detailed info and values present in Python Notebook.
    ![Screenshot](https://github.com/9harshit/airbnb-chicago-eda/blob/main/top_host.png)
 
 ### Insight 
+
+- Area with most listing has higher average price in comparision to area with lower listing (ignoring for few exceptions) indication those area are most sough after by tourist or other renters i.e Costal areas, hence prices are competitive and high.
+
+   ![Screenshot](https://github.com/9harshit/airbnb-chicago-eda/blob/main/price_listing.png)
